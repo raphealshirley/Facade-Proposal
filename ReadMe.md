@@ -20,7 +20,7 @@ python3 ./TcpServer.py
 ```
 3. Run ML model under Facade Proposal folder.
 ```console
-python3 ./TcpServer.py
+python3 ./facade.py
 ```
 
 ## Result
